@@ -1,0 +1,11 @@
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\bin\Debug\WebLK_Data.dll
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\bin\Debug\WebLK_Data.pdb
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\obj\Debug\WebLK_Data.csproj.CoreCompileInputs.cache
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\obj\Debug\WebLK_Data.dll
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\obj\Debug\WebLK_Data.pdb
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\bin\Debug\Newtonsoft.Json.dll
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\bin\Debug\System.Net.Http.Formatting.dll
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\bin\Debug\Newtonsoft.Json.xml
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\bin\Debug\System.Net.Http.Formatting.xml
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\obj\Debug\WebLK_Data.csprojAssemblyReference.cache
+E:\WebAPILinhKien\WebLK_API\WebLK_Data\obj\Debug\WebLK_Data.csproj.CopyComplete
